@@ -28,7 +28,7 @@ import org.pentaho.ui.xul.impl.AbstractXulLoader;
 import org.pentaho.ui.xul.swt.SwtXulRunner;
 import org.pentaho.ui.xul.swt.tags.SwtDialog;
 
-import javax.annotation.Nonnull;
+import jakarta.annotation.Nonnull;
 import java.util.Collections;
 import java.util.Enumeration;
 import java.util.ResourceBundle;

@@ -13,7 +13,7 @@
 package org.pentaho.di.trans.dataservice.serialization;
 
 import java.util.function.Function;
-import javax.annotation.Nullable;
+import jakarta.annotation.Nullable;
 import org.pentaho.di.core.exception.KettleException;
 import org.pentaho.di.core.extension.ExtensionPoint;
 import org.pentaho.di.core.extension.ExtensionPointInterface;
